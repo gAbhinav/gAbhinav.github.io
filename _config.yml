@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Abhinav
+bio: A Man who does not travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -49,16 +49,15 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: ag729@snu.edu.in
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+      Abhinav:
+        name: Abhinav Gupta
+        bio: A Man who does not travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-
+        twitter: random
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
